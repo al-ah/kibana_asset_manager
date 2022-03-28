@@ -1,0 +1,14 @@
+{
+  "id": "assetManager",
+  "version": "1.0.0",
+  "kibanaVersion": "kibana",
+  "owner": {
+    "name": "ali ahmadi",
+    "githubTeam": ""
+  },
+  "description": "Asset Manager",
+  "server": true,
+  "ui": true,
+  "requiredPlugins": ["navigation"],
+  "optionalPlugins": []
+}

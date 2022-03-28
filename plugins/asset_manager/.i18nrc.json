@@ -1,0 +1,7 @@
+{
+  "prefix": "assetManager",
+  "paths": {
+    "assetManager": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}
